@@ -11,7 +11,7 @@ public class WebTableDemo
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Web table Demo");
+		System.out.println("Web table Demo Edited From Git Hub");
 		System.setProperty("webdriver.chrome.driver", "E:\\soft\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("file:///E:/selnium/StudentDetails.html");
